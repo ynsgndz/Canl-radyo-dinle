@@ -1,0 +1,15 @@
+C:\Users\yns3g\Desktop\radyoDinle\bin\Debug\radyoDinle.exe.config
+C:\Users\yns3g\Desktop\radyoDinle\bin\Debug\radyoDinle.exe
+C:\Users\yns3g\Desktop\radyoDinle\bin\Debug\radyoDinle.pdb
+C:\Users\yns3g\Desktop\radyoDinle\bin\Debug\Interop.WMPLib.dll
+C:\Users\yns3g\Desktop\radyoDinle\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\Interop.WMPLib.dll
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.csproj.ResolveComReference.cache
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.Form1.resources
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.Properties.Resources.resources
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.csproj.GenerateResource.cache
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.exe
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.pdb
+C:\Users\yns3g\Desktop\radyoDinle\obj\Debug\radyoDinle.csprojAssemblyReference.cache
